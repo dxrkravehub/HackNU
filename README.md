@@ -1,5 +1,5 @@
 
-# 3D Tracking with Barometer and AR Visualization
+# Memory Lens AI Hackathon Higgsfield 
 
 This project explores the idea of 3D tracking based on barometric data combined with AR visualization.
 Our goal is to develop a lightweight system that estimates the device’s position and altitude using a barometer and motion sensors, and then displays it in 3D and augmented reality (AR) environments.
@@ -21,16 +21,14 @@ By combining sensor data and AR visualization, we aim to create an intuitive and
 
 ## Tech Stack
 
- - Frontend: Three.js / WebXR / React
- - Backend: Python (FastAPI / Flask)
- - Sensors: Barometer, accelerometer, gyroscope, GPS
- - AR Tools: AR.js / Unity / Blender (for 3D models)
+ - Frontend: 
+ - Backend: Python (FASTapi/...)
  
 
 ## Team 
 
 | Name             | Role                                                                |
-| ----------------- | ------------------------------------------------------------------ |
+| Kernel Panic | ------------------------------------------------------------------ |
 | Rysbek | Core Development & Frontend (Web + AR) |
 | Dinmukhamed | Research & Presentation |
 
